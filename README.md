@@ -194,9 +194,9 @@ To update NNI to the latest version, add `--upgrade` flag to the above commands.
 <li><b>Compression</b></li>
 <ul>
 <li><a href="https://nni.readthedocs.io/en/latest/tutorials/pruning_quick_start.html">Pruning</a></li>
-<li><a href="https://nni.readthedocs.io/en/latest/tutorials/pruning_speed_up.html">Pruning Speedup</a></li>
+<li><a href="https://nni.readthedocs.io/en/latest/tutorials/pruning_speedup.html">Pruning Speedup</a></li>
 <li><a href="https://nni.readthedocs.io/en/latest/tutorials/quantization_quick_start.html">Quantization</a></li>
-<li><a href="https://nni.readthedocs.io/en/latest/tutorials/quantization_speed_up.html">Quantization Speedup</a></li>
+<li><a href="https://nni.readthedocs.io/en/latest/tutorials/quantization_speedup.html">Quantization Speedup</a></li>
 </ul>
 </ul>
 </td>
