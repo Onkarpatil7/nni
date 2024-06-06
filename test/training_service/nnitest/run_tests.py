@@ -23,7 +23,7 @@ from utils import (CLEAR, EXPERIMENT_URL, GREEN, RED, REST_ENDPOINT,
 it_variables = {}
 
 
-def update_training_service_config(config, training_service, config_file_path, nni_source_dir, reuse_mode='False'):
+def update_training_service_config(config, training_service, config_file_path, nni_source_dir, reuse_mode='True'):
     it_ts_config = get_yml_content(os.path.join('training_service', 'config', 'training_service.yml'))
     # hack for kubeflow trial config
     if training_service == 'kubeflow' and reuse_mode == 'False':
